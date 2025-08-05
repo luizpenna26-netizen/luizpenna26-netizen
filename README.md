@@ -4,6 +4,7 @@
 - 🎓 Estudando Desenvolvimento de Sistema Na Unicid
 - 📖 Contato: luizpenna26@gmail.com
 - 🤫 Pronomes: Ele/Dele
+- 🤑 Linkedin: https://www.linkedin.com/in/luiz-henrique-959b33378/
 
   <div>
    <a href="https://github.com/luizpenna26-netizen">
